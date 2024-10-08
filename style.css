@@ -1,0 +1,70 @@
+body {
+    background-color: #b7e0ff
+    
+}
+
+
+
+
+.navbar-brand {
+    font-size: 24px;
+    color: rgb(18, 69, 146);
+    font-family: "Mitr", sans-serif;
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px;
+    font-family: "IBM Plex Sans Thai Looped", sans-serif;
+}
+
+.book-card {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.book-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+
+.name{
+    font-size: 40px;
+    color: #cf3e54;
+    font-family: "Mitr", sans-serif;
+    
+    
+    }
+
+    .name2{
+        color: #cf3e54;
+        font-family: "K2D", sans-serif;
+         }
+
+    p{
+        font-family: "IBM Plex Sans Thai Looped", sans-serif;
+        }
+        
+    .img{
+        border-style: solid;
+        border-color: gold;
+        border-width: 5px;
+        }
+
+
+        .recommend2{
+            font-family: "Pacifico", cursive;
+            color: #cf3e54;
+            font-size: 85px;
+            
+        }
