@@ -3,8 +3,9 @@ body {
     
 }
 
-
-
+.bgnavbar {
+    background-color: khaki;
+}
 
 .navbar-brand {
     font-size: 24px;
@@ -39,26 +40,27 @@ footer {
 
 
 .name{
-    font-size: 40px;
-    color: #cf3e54;
+    font-size: 35px;
+    color: #000000;
     font-family: "Mitr", sans-serif;
     
     
     }
 
     .name2{
-        color: #cf3e54;
+        color: #831828;
         font-family: "K2D", sans-serif;
          }
 
     p{
         font-family: "IBM Plex Sans Thai Looped", sans-serif;
+        font-size: 18px;
         }
         
     .img{
         border-style: solid;
-        border-color: gold;
-        border-width: 5px;
+        border-color: hotpink;
+        border-width: 6px;
         }
 
 
@@ -68,3 +70,8 @@ footer {
             font-size: 85px;
             
         }
+
+        .name3{
+            font-size: 18px;
+            font-family: "K2D", sans-serif;
+             }
